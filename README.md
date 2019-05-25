@@ -1,3 +1,3 @@
 # Portfolio
-JSON driven portfolio. :shipit:
+JSON driven portfolio under construction :shipit:
 
