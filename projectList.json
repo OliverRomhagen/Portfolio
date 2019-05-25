@@ -1,0 +1,20 @@
+[
+    {
+        "projectName":"Beer Infographic",
+        "posterUrl":"projects/beerImg.png",
+        "description":"",
+        "tags": ["After Effects","Illustrator"]
+    },
+    {
+        "projectName":"e-commerce",
+        "posterUrl":"projects/landing.png",
+        "description":"",
+        "tags": ["Adobe XD"]
+    }, 
+    {
+        "projectName":"",
+        "posterUrl":"projects/.png",
+        "description":"",
+        "tags": [""]
+    }
+]
